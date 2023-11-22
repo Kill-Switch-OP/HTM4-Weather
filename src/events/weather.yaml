@@ -1,0 +1,10 @@
+"http.get./weather":
+  fn: weather
+  body:
+    type: object
+    properties:
+      name:
+        type: string
+  responses:
+    200:
+      application/json:

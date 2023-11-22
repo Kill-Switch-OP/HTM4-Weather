@@ -1,0 +1,7 @@
+id: weather
+tasks:
+  - id: first_task
+    fn: com.gs.return
+    args:
+      name: 'Cool & Calm'
+      temp: '20C'
