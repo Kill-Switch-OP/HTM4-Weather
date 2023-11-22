@@ -1,4 +1,5 @@
-# Weather Data Service - Enhanced with Godspeed Framework
+# WeatherSpeed
+Weather Data Service - Enhanced with Godspeed Framework
 
 ## Overview
 Welcome to the Weather Data Service project, now reimagined with the Godspeed framework! This application, initially built using Node.js and Express, now integrates the cutting-edge Godspeed framework, enhancing its capabilities in handling and responding to weather-related data requests. Utilizing Axios for HTTP requests and YAML for configuration, the service is more robust and efficient within the Godspeed ecosystem.
