@@ -20,7 +20,7 @@ Welcome to the Weather Data Service project, now reimagined with the Godspeed fr
 ### Installation
 1. Clone the Godspeed-enhanced repository:
    ```
-   git clone https://github.com/Kill-Switch-OP/HTM4-Weather
+   git clone https://github.com/Kill-Switch-OP/HTM4-WeatherSpeed
    ```
 2. Navigate to the project directory:
    ```
